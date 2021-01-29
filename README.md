@@ -9,3 +9,5 @@ found be founded from ‘CURRENTPOSITION’ column of our final data (This can b
 containers and then based on the position where the container is stacked that container is then included in the priority list. An example for this would be whether or not a 
 container is on the top or just below another container, then those containers can be included in the priority list. These two lists can be exported from the system in multiple
 formats and can be presented in a dashboard. In our case we exported the data in the form of .csv files to use in our Power BI dashboard.  
+
+The priority list does not indicate that only containers present in that list can be processed, it means that it is better for CTT if these containers are moved first, as this should result in a decrease of unnecessary moves. CTT can also use this list and specify a timeslot for truck-drivers for picking up those containers
