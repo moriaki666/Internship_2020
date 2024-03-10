@@ -1,4 +1,4 @@
-# Internship_2020
+# Internship_2020 - University of Twente
 Scheduling/Queuing tool for CTT Hengelo's Rotterdam terminal
 
 ADR is the European Agreement which concerns the International Carriage of Dangerous Goods by Road. ADR includes a special procedure in road traffic in regards to packaging, 
